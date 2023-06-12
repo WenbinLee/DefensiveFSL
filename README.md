@@ -1,4 +1,4 @@
-## Defensive Few-Shot Learning
+## Defensive Few-Shot Learning. TPAMI 2022.
 This is a PyTorch implementation of the [DFSL](https://ieeexplore.ieee.org/document/9916072) paper.
 
 <img src='flowchart.png' width=600/>
