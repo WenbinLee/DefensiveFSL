@@ -1,0 +1,9 @@
+torch==1.7.0
+torchvision==0.8.1
+python==3.8.5
+tqdm==4.47.0
+Pillow==7.2.0
+numpy==1.21.4
+matplotlib==3.2.2
+yaml==5.2.5
+tensorboardx==2.1
